@@ -8,7 +8,6 @@
             <validate schema="https://raw.githubusercontent.com/LTAC-Global/TBX_min_module/master/Min.sch" useMode="SCH"/>
         </namespace>
         <anyNamespace>
-            <!-- Since TBX-Micro dialect is defined as core TBX namespace + Section-8 Namespace, no other namespaces should be allowed -->
             <reject/>
         </anyNamespace>
     </mode>
