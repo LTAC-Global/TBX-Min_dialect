@@ -19,5 +19,8 @@
             <assert test="attribute::type='TBX-Min'">The name of this dialect should be TBX-Min</assert>
             <assert test="attribute::style='dct'">The style of this dialect should be declared as 'dct'</assert>
         </rule>
+        <rule context="tbx:*[@type]">
+            <assert test="not(matches(.,'|.')) or .. is root()">DCA style elements are not permitted in DCT style TBX.</assert>
+        </rule>
     </pattern>
 </schema>
