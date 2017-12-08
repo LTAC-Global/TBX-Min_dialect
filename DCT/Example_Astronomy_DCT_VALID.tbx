@@ -838,12 +838,5 @@
 				</langSec>
 			</conceptEntry>
 		</body>
-		<back>
-			<refObjectSec type="respPerson">
-				<refObject id="pe324as3-9615-4d41-a9c8-30c36bffe0e6">
-					<item type="fn">Tommy Tomolonis</item>
-				</refObject>
-			</refObjectSec>
-		</back>
 	</text>
 </tbx>
