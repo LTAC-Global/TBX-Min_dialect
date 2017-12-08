@@ -16,12 +16,12 @@
 					<termSec>
 						<term>open cluster</term>
 						<min:partOfSpeech>noun</min:partOfSpeech>
-						<min:administrativeStatus>preferred</min:administrativeStatus>
+						<min:administrativeStatus>preferredTerm-admn-sts</min:administrativeStatus>
 					</termSec>
 					<termSec>
 						<term>galactic cluster</term>
 						<min:partOfSpeech>noun</min:partOfSpeech>
-						<min:administrativeStatus>obsolete</min:administrativeStatus>
+						<min:administrativeStatus>supersededTerm-admn-sts</min:administrativeStatus>
 						<note>Another name for an open star cluster. They are often termed Galactic
 							Clusters because they are found mainly in the plane of our galaxy. If
 							you were to view our galaxy from afar, you would find that all the
@@ -42,29 +42,29 @@
 					<termSec>
 						<term>circumstellar accretion disk</term>
 						<min:partOfSpeech>noun</min:partOfSpeech>
-						<min:administrativeStatus>preferred</min:administrativeStatus>
+						<min:administrativeStatus>preferredTerm-admn-sts</min:administrativeStatus>
 					</termSec>
 					<termSec>
 						<term>accretion disc</term>
 						<min:partOfSpeech>noun</min:partOfSpeech>
-						<min:administrativeStatus>admitted</min:administrativeStatus>
+						<min:administrativeStatus>admittedTerm-admn-sts</min:administrativeStatus>
 					</termSec>
 					<termSec>
 						<term>circumstellar disk</term>
 						<min:partOfSpeech>noun</min:partOfSpeech>
-						<min:administrativeStatus>admitted</min:administrativeStatus>
+						<min:administrativeStatus>admittedTerm-admn-sts</min:administrativeStatus>
 					</termSec>
 				</langSec>
 				<langSec xml:lang="es">
 					<termSec>
 						<term>disco de acreción</term>
 						<min:partOfSpeech>noun</min:partOfSpeech>
-						<min:administrativeStatus>preferred</min:administrativeStatus>
+						<min:administrativeStatus>preferredTerm-admn-sts</min:administrativeStatus>
 					</termSec>
 					<termSec>
 						<term>disco de acrecimiento</term>
 						<min:partOfSpeech>noun</min:partOfSpeech>
-						<min:administrativeStatus>admitted</min:administrativeStatus>
+						<min:administrativeStatus>admittedTerm-admn-sts</min:administrativeStatus>
 					</termSec>
 				</langSec>
 			</conceptEntry>
@@ -161,12 +161,12 @@
 					<termSec>
 						<term>cúmulo estelar</term>
 						<min:partOfSpeech>noun</min:partOfSpeech>
-						<min:administrativeStatus>preferred</min:administrativeStatus>
+						<min:administrativeStatus>preferredTerm-admn-sts</min:administrativeStatus>
 					</termSec>
 					<termSec>
 						<term>cúmulo de estrellas</term>
 						<min:partOfSpeech>noun</min:partOfSpeech>
-						<min:administrativeStatus>admitted</min:administrativeStatus>
+						<min:administrativeStatus>admittedTerm-admn-sts</min:administrativeStatus>
 						<note>Related Term: cúmulo globular</note>
 						<note>Related Term: cúmulo abierto</note>
 					</termSec>
@@ -263,7 +263,7 @@
 					<termSec>
 						<term>estrella rezagada azul</term>
 						<min:partOfSpeech>noun</min:partOfSpeech>
-						<min:administrativeStatus>preferred</min:administrativeStatus>
+						<min:administrativeStatus>preferredTerm-admn-sts</min:administrativeStatus>
 					</termSec>
 				</langSec>
 			</conceptEntry>
@@ -292,12 +292,12 @@
 					<termSec>
 						<term>estrella binaria</term>
 						<min:partOfSpeech>noun</min:partOfSpeech>
-						<min:administrativeStatus>admitted</min:administrativeStatus>
+						<min:administrativeStatus>admittedTerm-admn-sts</min:administrativeStatus>
 					</termSec>
 					<termSec>
 						<term>estrella doble</term>
 						<min:partOfSpeech>noun</min:partOfSpeech>
-						<min:administrativeStatus>preferred</min:administrativeStatus>
+						<min:administrativeStatus>preferredTerm-admn-sts</min:administrativeStatus>
 					</termSec>
 				</langSec>
 			</conceptEntry>
@@ -484,7 +484,7 @@
 					<termSec>
 						<term>emission nebula</term>
 						<min:partOfSpeech>noun</min:partOfSpeech>
-						<min:administrativeStatus>preferred</min:administrativeStatus>
+						<min:administrativeStatus>preferredTerm-admn-sts</min:administrativeStatus>
 					</termSec>
 				</langSec>
 				<langSec xml:lang="es">
@@ -523,24 +523,24 @@
 					<termSec>
 						<term>dark nebula</term>
 						<min:partOfSpeech>noun</min:partOfSpeech>
-						<min:administrativeStatus>preferred</min:administrativeStatus>
+						<min:administrativeStatus>preferredTerm-admn-sts</min:administrativeStatus>
 					</termSec>
 					<termSec>
 						<term>absorbtion nebula</term>
 						<min:partOfSpeech>noun</min:partOfSpeech>
-						<min:administrativeStatus>admitted</min:administrativeStatus>
+						<min:administrativeStatus>admittedTerm-admn-sts</min:administrativeStatus>
 					</termSec>
 				</langSec>
 				<langSec xml:lang="es">
 					<termSec>
 						<term>nebulosa oscura</term>
 						<min:partOfSpeech>noun</min:partOfSpeech>
-						<min:administrativeStatus>preferred</min:administrativeStatus>
+						<min:administrativeStatus>preferredTerm-admn-sts</min:administrativeStatus>
 					</termSec>
 					<termSec>
 						<term>nebulosa de absorción</term>
 						<min:partOfSpeech>noun</min:partOfSpeech>
-						<min:administrativeStatus>admitted</min:administrativeStatus>
+						<min:administrativeStatus>admittedTerm-admn-sts</min:administrativeStatus>
 					</termSec>
 				</langSec>
 			</conceptEntry>
@@ -644,17 +644,17 @@
 					<termSec>
 						<term>proton-proton chain reaction</term>
 						<min:partOfSpeech>noun</min:partOfSpeech>
-						<min:administrativeStatus>admitted</min:administrativeStatus>
+						<min:administrativeStatus>admittedTerm-admn-sts</min:administrativeStatus>
 					</termSec>
 					<termSec>
 						<term>PP chain</term>
 						<min:partOfSpeech>noun</min:partOfSpeech>
-						<min:administrativeStatus>preferred</min:administrativeStatus>
+						<min:administrativeStatus>preferredTerm-admn-sts</min:administrativeStatus>
 					</termSec>
 					<termSec>
 						<term>proton-proton reaction</term>
 						<min:partOfSpeech>noun</min:partOfSpeech>
-						<min:administrativeStatus>admitted</min:administrativeStatus>
+						<min:administrativeStatus>admittedTerm-admn-sts</min:administrativeStatus>
 					</termSec>
 				</langSec>
 				<langSec xml:lang="es">
@@ -669,27 +669,27 @@
 					<termSec>
 						<term>carbon-nitrogen cycle</term>
 						<min:partOfSpeech>noun</min:partOfSpeech>
-						<min:administrativeStatus>admitted</min:administrativeStatus>
+						<min:administrativeStatus>admittedTerm-admn-sts</min:administrativeStatus>
 					</termSec>
 					<termSec>
 						<term>CNO cycle</term>
 						<min:partOfSpeech>noun</min:partOfSpeech>
-						<min:administrativeStatus>preferred</min:administrativeStatus>
+						<min:administrativeStatus>preferredTerm-admn-sts</min:administrativeStatus>
 					</termSec>
 					<termSec>
 						<term>carbon-nitrogen-oxygen cycle</term>
 						<min:partOfSpeech>noun</min:partOfSpeech>
-						<min:administrativeStatus>admitted</min:administrativeStatus>
+						<min:administrativeStatus>admittedTerm-admn-sts</min:administrativeStatus>
 					</termSec>
 					<termSec>
 						<term>Bethe-Weizsäcker-cycle</term>
 						<min:partOfSpeech>noun</min:partOfSpeech>
-						<min:administrativeStatus>admitted</min:administrativeStatus>
+						<min:administrativeStatus>admittedTerm-admn-sts</min:administrativeStatus>
 					</termSec>
 					<termSec>
 						<term>carbon cycle</term>
 						<min:partOfSpeech>noun</min:partOfSpeech>
-						<min:administrativeStatus>notRecommended</min:administrativeStatus>
+						<min:administrativeStatus>deprecatedTerm-admn-sts</min:administrativeStatus>
 						<note>The carbon cycle can also refer to the biogeochemical cycle by which
 							carbon is exchanged among the biosphere, pedosphere, geosphere,
 							hydrosphere, and atmosphere of the Earth.</note>
@@ -698,24 +698,24 @@
 					<termSec>
 						<term>CN cycle</term>
 						<min:partOfSpeech>noun</min:partOfSpeech>
-						<min:administrativeStatus>admitted</min:administrativeStatus>
+						<min:administrativeStatus>admittedTerm-admn-sts</min:administrativeStatus>
 					</termSec>
 				</langSec>
 				<langSec xml:lang="es">
 					<termSec>
 						<term>ciclo CNO</term>
 						<min:partOfSpeech>noun</min:partOfSpeech>
-						<min:administrativeStatus>admitted</min:administrativeStatus>
+						<min:administrativeStatus>admittedTerm-admn-sts</min:administrativeStatus>
 					</termSec>
 					<termSec>
 						<term>ciclo del carbono-nitrógeno-oxígeno</term>
 						<min:partOfSpeech>noun</min:partOfSpeech>
-						<min:administrativeStatus>notRecommended</min:administrativeStatus>
+						<min:administrativeStatus>deprecatedTerm-admn-sts</min:administrativeStatus>
 					</termSec>
 					<termSec>
 						<term>ciclo del carbono</term>
 						<min:partOfSpeech>noun</min:partOfSpeech>
-						<min:administrativeStatus>notRecommended</min:administrativeStatus>
+						<min:administrativeStatus>deprecatedTerm-admn-sts</min:administrativeStatus>
 						<note>También este término puede referirse a la formación de las moléculas
 							de carbohidratos, lípidos, proteínas y ácidos nucleicos.</note>
 						<note>N-Source: http://es.wikipedia.org/wiki/Ciclo_del_carbono</note>
@@ -723,7 +723,7 @@
 					<termSec>
 						<term>ciclo del carbono-nitrógeno</term>
 						<min:partOfSpeech>noun</min:partOfSpeech>
-						<min:administrativeStatus>preferred</min:administrativeStatus>
+						<min:administrativeStatus>preferredTerm-admn-sts</min:administrativeStatus>
 					</termSec>
 				</langSec>
 			</conceptEntry>
@@ -767,12 +767,12 @@
 					<termSec>
 						<term>degeneración de electrones</term>
 						<min:partOfSpeech>noun</min:partOfSpeech>
-						<min:administrativeStatus>admitted</min:administrativeStatus>
+						<min:administrativeStatus>admittedTerm-admn-sts</min:administrativeStatus>
 					</termSec>
 					<termSec>
 						<term>degeneración electrónica</term>
 						<min:partOfSpeech>noun</min:partOfSpeech>
-						<min:administrativeStatus>admitted</min:administrativeStatus>
+						<min:administrativeStatus>admittedTerm-admn-sts</min:administrativeStatus>
 					</termSec>
 				</langSec>
 			</conceptEntry>
