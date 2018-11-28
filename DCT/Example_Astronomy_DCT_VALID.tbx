@@ -12,7 +12,6 @@
 		<body>
 			<conceptEntry id="c1">
 				<langSec xml:lang="en">
-					<min:partOfSpeech>noun</min:partOfSpeech>
 					<termSec>
 						<term>open cluster</term>
 						<min:partOfSpeech>noun</min:partOfSpeech>
