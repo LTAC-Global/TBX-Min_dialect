@@ -1,5 +1,16 @@
 # TBX-Min Dialect Versions
 
+## 1.0.1 (2023-02-09)
+
+### Changes
+
+- RNG schema now only enforces core data model
+- SCH schema now enforces all dialect specific constraints
+- Old release links have been removed
+
+#### [Definition](https://github.com/LTAC-Global/TBX-Min_dialect/releases/download/v1.0.1/TBX-Min_Definition_v1.0.1.pdf)
+#### [Download](https://github.com/LTAC-Global/TBX-Min_dialect/releases/download/v1.0.1/TBX-Min_dialect_v1.0.1.zip)
+
+
 ## 1.0 (2018-05-01)
-#### [Definition](https://ltac-global.github.io/TBX-Min_dialect/TBX-Min_dialect_1.0/TBX-Min%20Definition.pdf)
-#### [Download](https://ltac-global.github.io/TBX-Min_dialect/TBX-Min_dialect_1.0.zip)
+- Initial commit
