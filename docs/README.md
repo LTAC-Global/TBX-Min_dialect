@@ -8,7 +8,7 @@
 - SCH schema now enforces all dialect specific constraints
 - Old release links have been removed
 
-#### [Definition](https://github.com/LTAC-Global/TBX-Min_dialect/releases/download/v1.0.1/TBX-Min_Definition_v1.0.1.pdf)
+#### [Definition](https://github.com/LTAC-Global/TBX-Min_dialect/releases/download/v1.0.1/TBX-Min_Definition.pdf)
 #### [Download](https://github.com/LTAC-Global/TBX-Min_dialect/releases/download/v1.0.1/TBX-Min_dialect_v1.0.1.zip)
 
 
